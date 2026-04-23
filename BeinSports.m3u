@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,AR: Bein Sport FHD
-http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/241560
+http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/241560&output=m3u8
 #EXTINF:-1,AR: Bein Sport HD
 http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/2744
 #EXTINF:-1,AR: Bein Sport News HD
@@ -8,7 +8,7 @@ http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/285
 #EXTINF:-1,AR: Bein Sport NBA HD
 http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/1177
 #EXTINF:-1,AR: Bein Sport 4K UHD
-http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/34638
+http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/34638&output=m3u8
 #EXTINF:-1,AR: Bein Sport 1 4K
 http://livego.club:8080/eHWzaharmst4/eg3jqjPynX1G/80368
 #EXTINF:-1,AR: Bein Sport 2 4K
